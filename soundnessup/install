@@ -7,7 +7,7 @@ echo "🚀 Installing soundnessup..." && echo
 BASE_DIR=$HOME
 SOUNDNESS_DIR=${SOUNDNESS_DIR-"$BASE_DIR/.soundness"}
 SOUNDNESS_BIN_DIR="$SOUNDNESS_DIR/bin"
-BIN_URL="https://raw.githubusercontent.com/soundnesslabs/soundness-layer/main/soundnessup/soundnessup"
+BIN_URL="https://raw.githubusercontent.com/musr479/soundness-layer/main/soundnessup/soundnessup"
 BIN_PATH="$SOUNDNESS_BIN_DIR/soundnessup"
 
 # Create the .soundness bin directory and soundnessup binary if it doesn't exist.
